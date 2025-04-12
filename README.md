@@ -1,8 +1,6 @@
 # Heart Disease Prediction using Logistic Regression 
-  /)/)
-  
+  /)/)  
 ( . .)
-
 ( づ♡
 
 This project implements a Logistic Regression model to predict the presence of heart disease using a public heart disease dataset. It helps in identifying whether a person is likely to have a heart attack based on medical attributes.
